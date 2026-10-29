@@ -1,0 +1,41 @@
+{
+  "source": "/workspace/generated_images/exec-e45cdd94-2b9c-468f-a76a-438fd2f54f5c.png",
+  "type": "Animated product rendering with camera motion and flowing shell illumination",
+  "duration_seconds": 30,
+  "continuous_shot": true,
+  "files": [
+    {
+      "path": "/workspace/verdant_headset_30s/verdant-headset-30-seconds.mp4",
+      "bytes": 7540877,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1152,
+          "height": 768,
+          "nb_read_frames": "720"
+        }
+      ],
+      "format": {
+        "duration": "30.000000"
+      }
+    },
+    {
+      "path": "/workspace/verdant_headset_30s/verdant-headset-30-seconds.gif",
+      "bytes": 9629960,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 448,
+          "height": 298,
+          "nb_read_frames": "300"
+        }
+      ],
+      "format": {
+        "duration": "30.000000"
+      }
+    }
+  ],
+  "full_mp4_decode": "passed"
+}
