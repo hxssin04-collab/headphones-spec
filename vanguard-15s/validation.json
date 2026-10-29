@@ -1,0 +1,40 @@
+{
+  "source": "/workspace/generated_images/exec-bd23f036-ee63-46a5-946f-0357f41c57ee.png",
+  "type": "Animated product rendering with camera motion and flowing shell illumination",
+  "duration_seconds": 15,
+  "continuous_shot": true,
+  "files": [
+    {
+      "path": "/workspace/vanguard_headset_15s/vanguard-headset-15-seconds.mp4",
+      "bytes": 4983475,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1152,
+          "height": 768,
+          "nb_read_frames": "360"
+        }
+      ],
+      "format": {
+        "duration": "15.000000"
+      }
+    },
+    {
+      "path": "/workspace/vanguard_headset_15s/vanguard-headset-15-seconds.gif",
+      "bytes": 5507496,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 512,
+          "height": 342,
+          "nb_read_frames": "180"
+        }
+      ],
+      "format": {
+        "duration": "15.000000"
+      }
+    }
+  ]
+}
